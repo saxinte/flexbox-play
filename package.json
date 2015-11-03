@@ -1,0 +1,12 @@
+{
+  "name": "flexbox-play",
+  "version": "1.0.0",
+  "scripts": {
+  	"start" : "gulp"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  }
+}

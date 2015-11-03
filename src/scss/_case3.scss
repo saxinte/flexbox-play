@@ -1,0 +1,15 @@
+.case3__container {
+    display:flex;
+    padding:10px;
+    align-items:flex-start;
+    border:1px solid #CCC;
+}
+.case3__container .item {
+    flex-grow:1;
+    flex-shrink:1;
+    flex-basis:0;
+    margin:0 5px 5px 0;
+}
+.case3__container .last {
+    align-self:flex-end;
+}
